@@ -6,3 +6,4 @@ Run the VMware player and click on ‘Create New Virtual Machine.
 check the vmware tools are installed
 Enable sharing between the host OS and guest OS as follows:
 Go to Virtual Machine – Virtual Machine Settings – Options – Shared Folders
+Hadoop needs to have Java installed on CentOS.Download the latest java from http://www.oracle.com/technetwork/java/javase/downloads/index.html
